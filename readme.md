@@ -18,7 +18,7 @@ theirs. The end result is that each partner should have the experience of the te
 
 ### 3. Both Partners ACCEPT THE Assignment GITHUB to create their own GitHub repo, so each person has the chance to do all the steps and practice makes perfect...
 
-1. Balaji Coimbatore Balasubramanian: [balajicb](https://github.com/balajicb-bc75)
+1. Partner 1: [Balaji C B](https://github.com/balajicb-bc75)
 2. Partner 2: [Radhika Nanda](https://github.com/RadhikaNanda/)
 3. Partner 3: NA
 
